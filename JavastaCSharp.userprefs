@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{BA352C7D-13B0-4E1E-AC58-0ADF315192B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Volumes/CEDA_X64FRE_EN-US_DV5/Lab7/Program.cs">
+    <Files>
+      <File FileName="JavastaCSharp/Program.cs" Line="19" Column="22" />
+      <File FileName="JavastaCSharp/People/Person.cs" Line="7" Column="3" />
+      <File FileName="JavastaCSharp/People/Doctor.cs" Line="19" Column="1" />
+      <File FileName="JavastaCSharp/Health/Tools.cs" Line="18" Column="7" />
+      <File FileName="JavastaCSharp/People/Patient.cs" Line="14" Column="33" />
+      <File FileName="JavastaCSharp/Health/TreatmentQueue.cs" Line="16" Column="27" />
+      <File FileName="../../../../../Volumes/CEDA_X64FRE_EN-US_DV5/Lab7/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.JavastaCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
